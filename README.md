@@ -1,5 +1,8 @@
 # auth-demo-spring
 Demo Auth Api using Spring Boot
+> APIController - end points handler\
+> AuthService - Business logic for Authentication\
+> CredentialsRepo - Repository to handle credentaial storage
 
 ### SignUp request
 POST : `http://localhost:8080/sign-up`
