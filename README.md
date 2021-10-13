@@ -12,6 +12,7 @@ POST : `http://localhost:8080/sign-up`
     "password": "Hello@01"
     }
 **email regex** : anystring@anystring.anystring
+
 **password regex** : Minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character
 
 **Response**
